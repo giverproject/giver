@@ -132,6 +132,10 @@ Queremos armar un producto mínimo viable (MVP) donde se cumpla un objetivo, con
 
 * [Giver | Pitch Deck | 2023-07-03 ](https://www.canva.com/design/DAFgOOE_zvs/SWByu2Eed1UBWOQVAgexTQ/edit?utm_content=DAFgOOE_zvs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+## Landing Page
+
+* [Giver | Landing Page | Work in Progress](https://donaciones-giver.netlify.app/)
+
 ## Iteraciones anteriores
 
 * [Hackaton Web 3 Think and Dev: Consorcios](https://github.com/lucianogarriga/hackaton-web3/tree/main)
