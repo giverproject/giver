@@ -19,7 +19,10 @@ Ubicación: Argentina
 
 # One-liner
 
-Queremos ser el marketplace de las causas sociales
+##### Versiones
+
+* Queremos ser el marketplace de las causas sociales
+* Queremos ser el canal por el cual las ONGs y las empresas conecten y aporten recursos para una causa
 
 ## Problema 
 
