@@ -29,7 +29,7 @@ tl,dr Las ONGs luchan por recursos. Empresas y sociedad civil quieren aportar re
 
 ### ONGs y Fundaciones
 
-![hombre de palito ONG dice: Dónde, y cómo, consigo recursos?](ONG-busca.png "ONG Busca Recursos")
+![hombre de palito ONG dice: Dónde, y cómo, consigo recursos?](pics/1-ONG-busca.png "ONG Busca Recursos")
 
 Las ONGs y Fundaciones a las que entrevistamos coinciden en varios puntos: 
 
@@ -42,7 +42,7 @@ Las ONGs y Fundaciones a las que entrevistamos coinciden en varios puntos:
 
 ### Empresas y Particulares
 
-![hombre de palito Particular dice: Dónde, y cómo, ofrezco recursos?](Particular-ofrece.png "Particular ofrece Recursos")
+![hombre de palito Particular dice: Dónde, y cómo, ofrezco recursos?](pics/2-Particular-ofrece.png "Particular ofrece Recursos")
 
 Los particulares son las personas que quieren aportar a causas y muchas veces las encuentran por conocidos, amigos y familia. Pero sobre todo, las personas aportantes a causas encuentran las causas a través de las redes sociales digitales, con plataformas que existen para compartir temas generales pero no están enfocadas en especial en causas sociales: como instagram, facebook, twitter, LinkedIn, TikTok, Discord.
 
@@ -52,7 +52,7 @@ La dificultad de las empresas en aportar a las causas sociales que les interesan
 
 #### Ejemplos de uniones entre Empresas, Particulares y ONGs
 
-![hombres de palito unidos dicen: Esta causa vale la pena!](UNION-causa-especifica.png "Sinergia, pero para una sola vez")
+![hombres de palito unidos dicen: Esta causa vale la pena!](pics/3-UNION-causa-especifica.png "Sinergia, pero para una sola vez")
 
 La sinergia que se puede lograr entre ambas partes es cuando la unión de cada lado producen resultados tangibles y de alto impacto. Un ejemplo de esto es cuando una organización internacional que creció desde LatinoAmérica ha sido Techo, que junta voluntarios de las empresas, con capital privado, y un aporte simbólico de los receptores beneficiarios, para construir una casa sencilla de madera para gente sin techo. 
 
@@ -62,11 +62,11 @@ La máxima meta a la que aspiran las ONGs es un apoyo continuado en el tiempo, d
 
 ¿Cómo se pueden conectar las ONGs con los aportantes, sean particulares, o de empresas?
 
-![hombres de palito muestran brecha: Dónde conectamos ONGs y Particulares?](Brecha-Problema.png "Gente Busca Causas y Recursos")
+![hombres de palito muestran brecha: Dónde conectamos ONGs y Particulares?](pics/4-Brecha-Problema.png "Gente Busca Causas y Recursos")
 
 ### Marketplace
 
-![hombres de palito resuelven brecha: Así conectamos ONGs y Particulares](Brecha-Solucion.png "Gente Encuentra Causas y Recursos")
+![hombres de palito resuelven brecha: Así conectamos ONGs y Particulares](pics/5-Brecha-Solucion.png "Gente Encuentra Causas y Recursos")
 
 Hay dos grandes grupos de gente que no logran encontrar lo que necesitan, y no hay ninguna plataforma dedicada a conectarlos, al menos no de manera masiva, o que sea usada por la gente que alcanzamos, tanto local como en el exterior.
 
@@ -92,7 +92,7 @@ A modo de simplificación, vamos a decir que cada grupo tiene un cierto número 
 
 ## Solución
 
-![Landing con Aportantes y Receptores](Brecha-Solucion-Landing.png "Gente encuentra Aportantes y Receptores")
+![Landing con Aportantes y Receptores](pics/Brecha-Solucion-Landing.png "Gente encuentra Aportantes y Receptores")
 
 tl,dr Conectar ONGs con empresas y sociedad civil ayuda a las causas raíces que todos quieren construir
 
