@@ -3,8 +3,6 @@ Proyecto Web3 MVP marketplace ONGS y particulares [Pre-Incubadora Speezard]
 
 ![ ](pics/logo.jpg "giver Logo")
 
-# giver
-
 #### Contexto del Proyecto: Pre-Incubadora Speezard. Cohort #2
 
 Mayo a Julio 2023
