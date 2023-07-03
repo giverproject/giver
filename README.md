@@ -34,12 +34,18 @@ tl,dr Las ONGs luchan por recursos. Empresas y sociedad civil quieren aportar re
 
 Las ONGs y Fundaciones a las que entrevistamos coinciden en varios puntos: 
 
-* No tienen tiempo, o es escaso. La mayoría de las ONGs y Fundaciones están en estado naciente y se les dedica solo una dedicación laboral parcial.
+* Las ONGs, y sus líderes dedican una parte sustancial de esfuerzos a conseguir recursos.
+* No tienen tiempo, o es escaso. La mayoría de las ONGs y Fundaciones están en estado naciente y se les dedica solo una dedicación laboral parcial. 
 * No tienen plata, de manera que no pueden escalar sus esfuerzos.
 * No tienen facilidad de gestión, normalmente una cabeza retiene toda la información de objetivos, necesidades, tareas a cumplir, y resulta trabajoso delegar responsabilidades
 * Cuando los objetivos de ONG son poco claros o inexistentes, a los voluntarios les resulta poco estimulante aportar a la causa
-* Las ONGs, y sus líderes dedican una parte sustancial de esfuerzos a conseguir recursos
 * Las ONGs perduran con suma dificultad en el tiempo: o caducan o crecen. Su tiempo de vida promedio oscila entre los 3 y los 7 años, algunos sin personería jurídica, simplemente como organizaciones de la sociedad civil (OSC).
+
+#### Punto de Dolor de las ONGs y Solución de Ciclo Virtuoso
+
+Las ONGs solo tienen un tiempo escaso, y del cuál se pierde mucho buscando recursos. Entonces, si existiera una plataforma (como Giver) que les consiguiera los fondos y recursos, eso les permitiría hacer un uso más óptimo del tiempo porque solo lo dedicarían a coordinar a los voluntarios y hacer uso de lo donado.
+
+Una vez se consigan fondos y recursos, las cabezas de ONGs pueden estar más focalizadas en hacer lo que tienen que hacer: coordinar esfuerzos de los voluntarios. Y todo eso permite definir objetivos y rumbo de la ONG. Se crea entonces un círculo virtuoso donde tanto los líderes de las ONG como los voluntarios ponen más en claro el objetivo y se sienten más motivados.
 
 ### Empresas y Particulares
 
@@ -49,7 +55,9 @@ Los particulares son las personas que quieren aportar a causas y muchas veces la
 
 Las empresas tienen algún nivel de contacto con las ONGs y Fundaciones cuando pueden asociarse de una manera estructurada, clara, programada, y donde los aportes no son solamente en especie, aportando objetos materiales y plata, sino además aportando voluntarios.
 
-La dificultad de las empresas en aportar a las causas sociales que les interesan también tiene que ver, como les pasa a las ONGs, con una escasez de recursos, también en tiempo y gestión, además de plata.
+La dificultad de algunas empresas, en tiempos de crisis, es que no pueden aportar sostenidamente a las causas sociales que les interesan. (A veces apoyan una causa durante un tiempo y después quitan el apoyo.) También a las empresas a veces, como les pasa a las ONGs, les faltan recursos, también en tiempo y gestión, y plata. 
+
+¿Esto implica que tanto empresas locales como ONGs locales pueden intentar buscar más conexiones con el exterior, donde quizás cada fondo valga más? Idea a validar.
 
 #### Ejemplos de uniones entre Empresas, Particulares y ONGs
 
