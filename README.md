@@ -128,6 +128,10 @@ Queremos armar un producto mínimo viable (MVP) donde se cumpla un objetivo, con
 	* Plata: se cobra un porcentaje (1%?) por transacción
 * Versión Premium: Horas de Soporte personalizado para auxiliar y definir gestión, planificación. 
 
+## Pitch Deck
+
+* [Giver | Pitch Deck | 2023-07-03 ](https://www.canva.com/design/DAFgOOE_zvs/SWByu2Eed1UBWOQVAgexTQ/edit?utm_content=DAFgOOE_zvs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ## Iteraciones anteriores
 
 * [Hackaton Web 3 Think and Dev: Consorcios](https://github.com/lucianogarriga/hackaton-web3/tree/main)
