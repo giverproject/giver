@@ -13,9 +13,9 @@ Ubicación: Argentina
 
 ###### Participantes
 
-* Franco Cerino
-* Federico Rascon
-* Benjamin Juarez
+* Franco Cerino | [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/francocerino/)
+* Federico Rascon | [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/federas/)
+* Benjamin Juarez | [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/bj-pm/?locale=en_US)
 
 # One-liner
 
@@ -43,9 +43,11 @@ Las ONGs y Fundaciones a las que entrevistamos coinciden en varios puntos:
 
 #### Punto de Dolor de las ONGs y Solución de Ciclo Virtuoso
 
-Las ONGs solo tienen un tiempo escaso, y del cuál se pierde mucho buscando recursos. Entonces, si existiera una plataforma (como Giver) que les consiguiera los fondos y recursos, eso les permitiría hacer un uso más óptimo del tiempo porque solo lo dedicarían a coordinar a los voluntarios y hacer uso de lo donado.
+Las ONGs solo tienen un tiempo escaso, y del cuál se pierde mucho buscando recursos. Entonces, si existiera una plataforma (como Giver) que les consiguiera los fondos y recursos, eso les permitiría hacer un uso más óptimo del tiempo porque solo lo dedicarían a coordinar a los voluntarios y hacer uso de lo donado. Una vez se consigan fondos y recursos, se pueden dar varios pasos positivos:
 
-Una vez se consigan fondos y recursos, las cabezas de ONGs pueden estar más focalizadas en hacer lo que tienen que hacer: coordinar esfuerzos de los voluntarios. Y todo eso permite definir objetivos y rumbo de la ONG. Se crea entonces un círculo virtuoso donde tanto los líderes de las ONG como los voluntarios ponen más en claro el objetivo y se sienten más motivados.
+* Las cabezas de ONGs pueden estar más focalizadas en hacer lo que tienen que hacer: coordinar esfuerzos de los voluntarios
+* Se definen objetivos y rumbo de la ONG
+* Se crea entonces un círculo virtuoso: tanto los líderes de las ONG como los voluntarios ponen más en claro el objetivo y se sienten más motivados
 
 ### Empresas y Particulares
 
