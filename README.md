@@ -71,6 +71,8 @@ El desafío de cualquier causa no es tanto resolver una meta concreta, porque cu
 
 La máxima meta a la que aspiran las ONGs es un apoyo continuado en el tiempo, de que la sociedad y las empresas no aporten simplemente una vez sino que pasen a formar parte de la institución y/o que aporten recursos de manera regular, por años, un año por vez.
 
+Es importante destacar que nuestra propuesta no busca ser una solución simplemente de crowdfunding donde se dona a una causa por una única vez (aunque no rechacemos esto). Lo que buscamos es que se genere una relación entre las partes, de ser posible de manera continuada.
+
 ¿Cómo se pueden conectar las ONGs con los aportantes, sean particulares, o de empresas?
 
 ![hombres de palito muestran brecha: Dónde conectamos ONGs y Particulares?](pics/4-Brecha-Problema.png "Gente Busca Causas y Recursos")
@@ -78,6 +80,10 @@ La máxima meta a la que aspiran las ONGs es un apoyo continuado en el tiempo, d
 ### Marketplace
 
 ![hombres de palito resuelven brecha: Así conectamos ONGs y Particulares](pics/5-Brecha-Solucion.png "Gente Encuentra Causas y Recursos")
+
+No buscamos entonces simplemente ser una plataforma de crowdfunding, sino dar un especio donde los diferentes usuarios se pueden conocer los perfiles, y hacer match con las causas más significativas para cada parte. Cada interacción alimentaría cada perfil, un poco como Stack Overflow hace con medallas de reconocimiento a los que contribuyen ya sea con pedidos (preguntas) o con ofrecimientos (respuestas). 
+
+¿Cómo encontrar las preguntas y respuestas, la oferta y la demanda para causas sociales?
 
 Hay dos grandes grupos de gente que no logran encontrar lo que necesitan, y no hay ninguna plataforma dedicada a conectarlos, al menos no de manera masiva, o que sea usada por la gente que alcanzamos, tanto local como en el exterior.
 
