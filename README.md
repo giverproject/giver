@@ -146,11 +146,15 @@ Queremos armar un producto mínimo viable (MVP) donde se cumpla un objetivo, con
 
 ## Pitch Deck
 
-* [Giver | Pitch Deck | 2023-07-03 ](https://www.canva.com/design/DAFgOOE_zvs/SWByu2Eed1UBWOQVAgexTQ/edit?utm_content=DAFgOOE_zvs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+* [Giver | Pitch Deck | 2023-07-03 ](https://www.canva.com/design/DAFnngpj46g/IpFyw25ixZ5Zl_ekYZh_cg/edit?utm_content=DAFnngpj46g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Landing Page
 
 * [Giver | Landing Page | Work in Progress](https://donaciones-giver.netlify.app/)
+
+## Social Media
+
+* [Twitter @giverdonations](https://twitter.com/giverdonations)
 
 ## Iteraciones anteriores
 
