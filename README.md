@@ -14,8 +14,8 @@ Ubicación: Argentina
 ###### Participantes
 
 * Franco Cerino | [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/francocerino/)
-* Federico Rascon | [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/federas/)
 * Benjamin Juarez | [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/bj-pm/?locale=en_US)
+* Federico Rascon | [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/federas/) (Salió del Proyecto)
 
 # One-liner
 
@@ -23,6 +23,10 @@ Ubicación: Argentina
 
 * Queremos ser el marketplace de las causas sociales
 * Queremos ser el canal por el cual las ONGs y las empresas conecten y aporten recursos para una causa
+
+# Pitch
+
+* [Presentación de 5 minutos: Pitch Day @Speezard](https://youtu.be/3MQvoXUPhuI?t=1303)
 
 ## Problema 
 
@@ -143,6 +147,7 @@ Queremos armar un producto mínimo viable (MVP) donde se cumpla un objetivo, con
 	* Recursos donados impactan en blockchain testnet, gratis
 	* Plata: se cobra un porcentaje (1%?) por transacción
 * Versión Premium: Horas de Soporte personalizado para auxiliar y definir gestión, planificación. 
+* Update: Considerando si armamos el proyecto como non-profit
 
 ## Pitch Deck
 
