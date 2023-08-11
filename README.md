@@ -66,8 +66,7 @@ La dificultad de algunas empresas, en tiempos de crisis, es que no pueden aporta
 
 #### Ejemplos de uniones entre Empresas, Particulares y ONGs
 
-![hombres de palito unidos dicen: Esta causa vale la pena!](pics/3-UNION-causa-especifica.png "Sinergia, pero para una sola vez")
-
+<img src="pics/3-UNION-causa-especifica.png" alt="Sinergia, pero para una sola vez" width="200"/>
 La sinergia que se puede lograr entre ambas partes es cuando la unión de cada lado producen resultados tangibles y de alto impacto. Un ejemplo de esto es cuando una organización internacional que creció desde LatinoAmérica ha sido Techo, que junta voluntarios de las empresas, con capital privado, y un aporte simbólico de los receptores beneficiarios, para construir una casa sencilla de madera para gente sin techo. 
 
 El desafío de cualquier causa no es tanto resolver una meta concreta, porque cuando se arman por ejemplo colectas para algo específico, como puede ser auxiliar a un merendero o a un club de fútbol, mucha gente reacciona y aporta. 
@@ -78,11 +77,11 @@ Es importante destacar que nuestra propuesta no busca ser una solución simpleme
 
 ¿Cómo se pueden conectar las ONGs con los aportantes, sean particulares, o de empresas?
 
-![hombres de palito muestran brecha: Dónde conectamos ONGs y Particulares?](pics/4-Brecha-Problema.png "Gente Busca Causas y Recursos")
+<img src="pics/4-Brecha-Problema.png" alt="Gente Busca Causas y Recursos" width="200"/>
 
 ### Marketplace
 
-![hombres de palito resuelven brecha: Así conectamos ONGs y Particulares](pics/5-Brecha-Solucion.png "Gente Encuentra Causas y Recursos")
+<img src="pics/5-Brecha-Solucion.png" alt="Gente Encuentra Causas y Recursos" width="200"/>
 
 No buscamos entonces simplemente ser una plataforma de crowdfunding, sino dar un especio donde los diferentes usuarios se pueden conocer los perfiles, y hacer match con las causas más significativas para cada parte. Cada interacción alimentaría cada perfil, un poco como Stack Overflow hace con medallas de reconocimiento a los que contribuyen ya sea con pedidos (preguntas) o con ofrecimientos (respuestas). 
 
