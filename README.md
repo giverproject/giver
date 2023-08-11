@@ -67,7 +67,7 @@ La dificultad de algunas empresas, en tiempos de crisis, es que no pueden aporta
 
 #### Ejemplos de uniones entre Empresas, Particulares y ONGs
 
-<img src="pics/3-UNION-causa-especifica.png" alt="Sinergia, pero para una sola vez" width="200"/>
+<img src="pics/3-UNION-causa-especifica.png" alt="Sinergia, pero para una sola vez" width="400"/>
 
 La sinergia que se puede lograr entre ambas partes es cuando la unión de cada lado producen resultados tangibles y de alto impacto. Un ejemplo de esto es cuando una organización internacional que creció desde LatinoAmérica ha sido Techo, que junta voluntarios de las empresas, con capital privado, y un aporte simbólico de los receptores beneficiarios, para construir una casa sencilla de madera para gente sin techo. 
 
@@ -79,11 +79,11 @@ Es importante destacar que nuestra propuesta no busca ser una solución simpleme
 
 ¿Cómo se pueden conectar las ONGs con los aportantes, sean particulares, o de empresas?
 
-<img src="pics/4-Brecha-Problema.png" alt="Gente Busca Causas y Recursos" width="200"/>
+<img src="pics/4-Brecha-Problema.png" alt="Gente Busca Causas y Recursos" width="400"/>
 
 ### Marketplace
 
-<img src="pics/5-Brecha-Solucion.png" alt="Gente Encuentra Causas y Recursos" width="200"/>
+<img src="pics/5-Brecha-Solucion.png" alt="Gente Encuentra Causas y Recursos" width="400"/>
 
 No buscamos entonces simplemente ser una plataforma de crowdfunding, sino dar un especio donde los diferentes usuarios se pueden conocer los perfiles, y hacer match con las causas más significativas para cada parte. Cada interacción alimentaría cada perfil, un poco como Stack Overflow hace con medallas de reconocimiento a los que contribuyen ya sea con pedidos (preguntas) o con ofrecimientos (respuestas). 
 
