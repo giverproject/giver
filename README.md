@@ -56,6 +56,7 @@ Las ONGs solo tienen un tiempo escaso, y del cuál se pierde mucho buscando recu
 ### Empresas y Particulares
 
 <img src="pics/2-Particular-ofrece.png" alt="Particular ofrece Recursos" width="200"/>
+
 Los particulares son las personas que quieren aportar a causas y muchas veces las encuentran por conocidos, amigos y familia. Pero sobre todo, las personas aportantes a causas encuentran las causas a través de las redes sociales digitales, con plataformas que existen para compartir temas generales pero no están enfocadas en especial en causas sociales: como instagram, facebook, twitter, LinkedIn, TikTok, Discord.
 
 Las empresas tienen algún nivel de contacto con las ONGs y Fundaciones cuando pueden asociarse de una manera estructurada, clara, programada, y donde los aportes no son solamente en especie, aportando objetos materiales y plata, sino además aportando voluntarios.
@@ -67,6 +68,7 @@ La dificultad de algunas empresas, en tiempos de crisis, es que no pueden aporta
 #### Ejemplos de uniones entre Empresas, Particulares y ONGs
 
 <img src="pics/3-UNION-causa-especifica.png" alt="Sinergia, pero para una sola vez" width="200"/>
+
 La sinergia que se puede lograr entre ambas partes es cuando la unión de cada lado producen resultados tangibles y de alto impacto. Un ejemplo de esto es cuando una organización internacional que creció desde LatinoAmérica ha sido Techo, que junta voluntarios de las empresas, con capital privado, y un aporte simbólico de los receptores beneficiarios, para construir una casa sencilla de madera para gente sin techo. 
 
 El desafío de cualquier causa no es tanto resolver una meta concreta, porque cuando se arman por ejemplo colectas para algo específico, como puede ser auxiliar a un merendero o a un club de fútbol, mucha gente reacciona y aporta. 
