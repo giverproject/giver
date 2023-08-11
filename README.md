@@ -34,7 +34,7 @@ tl,dr Las ONGs luchan por recursos. Empresas y sociedad civil quieren aportar re
 
 ### ONGs y Fundaciones
 
-![hombre de palito ONG dice: Dónde, y cómo, consigo recursos?](pics/1-ONG-busca.png "ONG Busca Recursos")
+<img src="pics/1-ONG-busca.png" alt="ONG Busca Recursos" width="200"/>
 
 Las ONGs y Fundaciones a las que entrevistamos coinciden en varios puntos: 
 
