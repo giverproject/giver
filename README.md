@@ -163,6 +163,6 @@ Queremos armar un producto mínimo viable (MVP) donde se cumpla un objetivo, con
 
 ## Iteraciones anteriores
 
-* [Hackaton Web 3 Think and Dev: Consorcios](https://github.com/lucianogarriga/hackaton-web3/tree/main)
+* [Hackaton Web 3 Think and Dev: Consorcios](https://github.com/giverproject/trustpay)
 * [Pre-Incubadora Speezard: Trazabalidad de Donaciones](https://docs.google.com/document/d/1HYXH7ikWdZynxOf6qeVRybxa-c2hF-aSnucDvBfs7Bk/edit)
 * [Pre-Incubadora Speezard: Donations' Traceability, English Brief](docs/trust-pay--brief.pdf)
