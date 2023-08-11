@@ -55,8 +55,7 @@ Las ONGs solo tienen un tiempo escaso, y del cuál se pierde mucho buscando recu
 
 ### Empresas y Particulares
 
-![hombre de palito Particular dice: Dónde, y cómo, ofrezco recursos?](pics/2-Particular-ofrece.png "Particular ofrece Recursos")
-
+<img src="pics/2-Particular-ofrece.png" alt="Particular ofrece Recursos" width="200"/>
 Los particulares son las personas que quieren aportar a causas y muchas veces las encuentran por conocidos, amigos y familia. Pero sobre todo, las personas aportantes a causas encuentran las causas a través de las redes sociales digitales, con plataformas que existen para compartir temas generales pero no están enfocadas en especial en causas sociales: como instagram, facebook, twitter, LinkedIn, TikTok, Discord.
 
 Las empresas tienen algún nivel de contacto con las ONGs y Fundaciones cuando pueden asociarse de una manera estructurada, clara, programada, y donde los aportes no son solamente en especie, aportando objetos materiales y plata, sino además aportando voluntarios.
