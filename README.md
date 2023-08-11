@@ -1,7 +1,7 @@
 # Giver
 
 <p align="center">
-  <img src="pics/giver-no-bg.png" alt="giver Logo" width="500"/>
+  <img src="pics/giver-no-bg.png" alt="giver Logo" width="400"/>
 </p>
 
 Proyecto Web3 MVP marketplace ONGS y particulares [Pre-Incubadora Speezard]
