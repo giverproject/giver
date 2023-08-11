@@ -1,6 +1,5 @@
 # Giver
 
-
 <center>
   <img src="pics/giver-no-bg.png" alt="giver Logo" width="500"/>
 </center>
